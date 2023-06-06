@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/JavaVista/code-vista_backend/issues"
   },
-  "homepage": "https://github.com/JavaVista/code-vista_backend#readme"
+  "homepage": "https://github.com/JavaVista/code-vista_backend#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  }
 }
