@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "code-vista backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JavaVista/code-vista_backend.git"
+  },
+  "keywords": [
+    "backend"
+  ],
+  "author": "Javier Carrion",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JavaVista/code-vista_backend/issues"
+  },
+  "homepage": "https://github.com/JavaVista/code-vista_backend#readme"
+}
