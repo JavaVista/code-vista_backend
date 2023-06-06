@@ -23,6 +23,7 @@
     "ts-node": "^10.9.1"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.24.0",
     "@types/cors": "^2.8.13",
     "axios": "^1.4.0",
     "cors": "^2.8.5",
