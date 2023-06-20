@@ -1,0 +1,32 @@
+# log files
+*.log
+npm-debug.log*
+
+# node package directories
+node_modules
+
+# environment variables
+.env
+
+# git directory
+.git
+
+# development tools
+.gitignore
+.editorconfig
+.eslintrc
+.prettierrc
+.eslintignore
+.prettierignore
+
+# test directories
+__tests__
+__mocks__
+
+# local IDE config files
+.idea
+.vscode
+
+# Operating System files
+.DS_Store
+Thumbs.db
